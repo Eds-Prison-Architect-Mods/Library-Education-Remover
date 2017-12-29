@@ -1,0 +1,9 @@
+
+Name                 "Library Education Requirement Remover"  
+Description          "We all know our ABC's.... This mod removes the requirement of education from the library so any prisoner can sort the books. Finally someone can sort the books."  
+Version              1.0.1  
+IsTranslation        false  
+FileID               F680374525  
+UpdateTime           1462654288  
+SteamAuthor          A76561198140191052  
+Author               ItzEdInYourBed  

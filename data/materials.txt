@@ -1,0 +1,11 @@
+BEGIN Room       
+    Name                 Library  
+    BEGIN Requirement Type MinimumSize  x 5  y 5  END
+    BEGIN Requirement Type Indoor END
+    BEGIN Requirement Type Object  Id LibraryBookshelf  END
+    BEGIN Requirement Type Object Id SortingTable END
+    BEGIN Contraband    Id      Scissors        END
+    Properties           PrisonersCanWork
+    WorkGroup            Library
+    Research             PrisonLabour
+END
